@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hadis201</h1>
+<h1 align="center">Hi 👋, I'm Hadis</h1>
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **hadis.sust@gmail.com**
