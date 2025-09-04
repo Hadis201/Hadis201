@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Hadis!
 
-<!--
-**Hadis201/Hadis201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- **Student & Lifetime Learner**
+- Passionate about solving real-world problems
+- Machine learning enthusiast
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- Python | C++ | Web Development | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Featured Repositories
+- [Web Development](https://github.com/Hadis201/web_development)
+- [CSES Solves](https://github.com/Hadis201/DataScience) <!-- Assumed this repo for CSES solves -->
+- [Python Projects](https://github.com/Hadis201/Python-Projects)
+- [Time Management App](https://github.com/Hadis201/Hadis201.github.io) <!-- Assumed this repo for app -->
+
+## 🌱 Interests
+- Real-world problem solving
+- Machine learning applications
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/hadis06)
+
+---
+_Always exploring, always building!_
